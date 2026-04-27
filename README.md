@@ -171,5 +171,9 @@ All project deliverables, assets, and supporting documents are available here:
   - Dashboards & Performance Tracking  
 
 ---
+## 👨‍🏫 Instructor
 
+> Mr. Youssef Ayman
+
+---
 > ⚠️ Note: All detailed attachments and working files are hosted externally on Google Drive due to file size and format limitations on GitHub.
